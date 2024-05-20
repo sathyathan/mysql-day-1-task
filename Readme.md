@@ -1,0 +1,1 @@
+I have done task about mysql using query.
